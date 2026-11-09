@@ -1,0 +1,8 @@
+# Maven generated files
+/target/
+
+# TestNG generated reports
+/test-output/
+
+# Eclipse workspace settings
+.metadata/
